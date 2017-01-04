@@ -6,6 +6,10 @@ This fork is missing test cases and just an idea for a potential rewrite.
 
 ## changelog
 
+### 2017-01-04
+
+Fixed options.verbose=false so you can turn off verbose info while parsing the packages. 
+
 ### 2016-08-03
 
 Working on the `Component` class:
